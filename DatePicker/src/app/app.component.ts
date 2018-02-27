@@ -6,7 +6,8 @@ declare var $: any;
   selector: 'my-app',
   template: `
                 
-
+					<div>Press Shift and click on another date for range select </div>
+					<div>Press Ctrl and click on another date for multiple select </div>
                   <div style="display: inline-block;">
                     <datepicker [(ngModel)]="currentDate"  (update)="onUpdate($event)"></datepicker>
                   </div>

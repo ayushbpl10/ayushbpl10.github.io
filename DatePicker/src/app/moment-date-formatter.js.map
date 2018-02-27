@@ -1,0 +1,1 @@
+{"version":3,"file":"moment-date-formatter.js","sourceRoot":"","sources":["moment-date-formatter.ts"],"names":[],"mappings":"AAAA;;GAEG;AACH,mDAAmD;;AAOnD;IAAA;IAKA,CAAC;IAJU,8BAAM,GAAb,UAAc,IAAS,EAAE,MAAa;QAClC,MAAM,CAAC,MAAM,CAAC,IAAI,CAAC,OAAO,EAAE,CAAC,CAAC,MAAM,CAAC,MAAM,CAAC,CAAC;QAC7C,qCAAqC;IACzC,CAAC;IACL,oBAAC;AAAD,CAAC,AALD,IAKC;AALY,qBAAa,gBAKzB,CAAA"}
